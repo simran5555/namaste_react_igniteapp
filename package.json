@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/simran5555/namaste_react_igniteapp/issues"
   },
-  "homepage": "https://github.com/simran5555/namaste_react_igniteapp#readme"
+  "homepage": "https://github.com/simran5555/namaste_react_igniteapp#readme",
+  "devDependencies": {
+    "parcel": "^2.11.0"
+  }
 }
