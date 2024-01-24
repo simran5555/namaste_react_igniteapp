@@ -1,0 +1,22 @@
+{
+  "name": "namaste_react_igniteapp",
+  "version": "1.0.0",
+  "description": "learning react from namaste react",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/simran5555/namaste_react_igniteapp.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "Simran Kaur",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/simran5555/namaste_react_igniteapp/issues"
+  },
+  "homepage": "https://github.com/simran5555/namaste_react_igniteapp#readme"
+}
